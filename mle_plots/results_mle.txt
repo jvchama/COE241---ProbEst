@@ -1,0 +1,12 @@
+=== CLIENTE ===
+[client05] Download ~ Gamma: k=1.1132, beta=0.003596  (theta=1/beta=278.063036)
+[client05] Upload   ~ Gamma: k=1.1342, beta=0.003261  (theta=1/beta=306.608954)
+[client05] RTT-Down ~ Normal: mu=45.166 ms, sigma=54.808 ms
+[client05] RTT-Up   ~ Normal: mu=29.707 ms, sigma=47.237 ms
+[client05] Loss ~ Binomial: n=1000, p=0.063077
+=== SERVIDOR ===
+[server03] Download ~ Gamma: k=2.5907, beta=0.004058  (theta=1/beta=246.435992)
+[server03] Upload   ~ Gamma: k=1.2111, beta=0.002702  (theta=1/beta=370.104074)
+[server03] RTT-Down ~ Normal: mu=11.467 ms, sigma=2.468 ms
+[server03] RTT-Up   ~ Normal: mu=12.940 ms, sigma=4.308 ms
+[server03] Loss ~ Binomial: n=1000, p=0.021285
